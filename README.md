@@ -1,6 +1,6 @@
-# 💻 Landing Page - Trilha de CSS DIO
+# 💻 Landing Page - Trilha de CSS | Bootcamp Santander 2025 - DIO
 
-Este projeto é uma landing page desenvolvida como desafio da Trilha de CSS da Digital Innovation One (DIO). A proposta é aplicar conceitos de HTML semântico, CSS moderno e responsividade em uma estrutura visual atrativa e funcional.
+Este projeto foi desenvolvido como parte do **Bootcamp Santander 2025**, promovido pela [Digital Innovation One (DIO)](https://dio.me). A proposta foi criar uma landing page responsiva utilizando **HTML5** e **CSS3**, com foco em semântica, estilo visual moderno e organização do conteúdo.
 
 ---
 
@@ -14,43 +14,50 @@ Este projeto é uma landing page desenvolvida como desafio da Trilha de CSS da D
 
 ---
 
-## 📐 Layout da página
+## 📐 Estrutura da página
 
-A página é dividida nas seguintes seções:
+A página contém as seguintes seções:
 
-- **Banner inicial**: com logotipo, título, chamada para ação e botão de inscrição.
-- **Conteúdo do curso**: descrição dos módulos de CSS disponíveis na trilha.
-- **Transforme o mundo**: seção visual com imagem de fundo e frase de impacto.
-- **Desafios profissionais**: seção motivacional com imagem e chamada para evolução profissional.
-- **Rodapé**: logotipo da DIO e link para cadastro na plataforma.
+- **Banner inicial**: logotipo, título principal, descrição e botão de chamada para ação.
+- **Conteúdo do curso**: apresentação dos módulos da trilha de CSS.
+- **Transforme o mundo**: seção de impacto com imagem de fundo e chamada motivacional.
+- **Desafios profissionais**: chamada para evolução de carreira com imagem e conteúdo inspirador.
+- **Rodapé**: logotipo da DIO e link para o site oficial.
 
 ---
 
 ## 🎯 Objetivos do projeto
 
-- Praticar o uso de HTML semântico
-- Utilizar seletores CSS e propriedades modernas
-- Trabalhar com design responsivo
-- Aplicar boas práticas de estilização e organização do código
+- Aplicar conceitos de **HTML semântico**
+- Estilizar elementos com **CSS moderno**
+- Criar uma **experiência visual agradável**
+- Garantir **responsividade** e boa usabilidade em diferentes dispositivos
+- Consolidar conhecimentos da Trilha de CSS da DIO
 
 ---
 
 ## 📱 Responsividade
 
-O layout se adapta para diferentes tamanhos de tela, garantindo boa usabilidade tanto em **desktop quanto em dispositivos móveis**. Foram utilizadas unidades relativas, `max-width`, `media queries` e imagens fluidas.
+O layout adapta-se bem a telas de diferentes tamanhos, como:
+
+- Computadores (desktop)
+- Tablets
+- Celulares (mobile)
+
+Foram utilizadas estratégias como:
+
+- `max-width` e `width: 100%`
+- `media queries`
+- imagens fluidas
+- padding e espaçamentos flexíveis
 
 ---
 
-## 🌐 Acesse a DIO
+## 🌐 Acesse a plataforma DIO
 
-Para conhecer a plataforma e participar da trilha, acesse:  
+Para saber mais sobre o bootcamp e outras formações, acesse:
+
 [https://dio.me](https://dio.me)
-
----
-
-## 📸 Preview do projeto
-
-> *(Você pode adicionar uma captura de tela aqui)*
 
 ---
 
@@ -59,5 +66,8 @@ Para conhecer a plataforma e participar da trilha, acesse:
 **Fernanda Linhares**  
 [https://github.com/FernandaBarrosLinhares](https://github.com/FernandaBarrosLinhares)
 
----
+
+
+
+
 
